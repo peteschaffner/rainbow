@@ -1,0 +1,12 @@
+{
+  "name": "rainbow",
+  "repo": "peteschaffner/rainbow",
+  "description": "Change an element's color gradually.",
+  "version": "0.1.0",
+  "keywords": ["color", "rainbow", "spectrum"],
+  "dependencies": {
+    "component/css": "*",
+    "peteschaffner/sinebow": "*"
+  },
+  "scripts": ["index.js"]
+}
